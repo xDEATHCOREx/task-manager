@@ -1,0 +1,8 @@
+{
+  "presets": [
+    ["latest", {
+      "es2015": { "modules": false }
+    }]
+  ],
+  "plugins": ["transform-object-rest-spread"] //增加这一行
+}
